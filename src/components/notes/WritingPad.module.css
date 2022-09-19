@@ -1,0 +1,12 @@
+.control{
+    padding: 0.25rem;
+}
+
+.control button{
+    margin-top: 5rem;
+    margin-left: 5em;
+    color: black;
+    background-color: wheat;
+    display: flexbox;
+    font-size: x-large;
+}
